@@ -9,7 +9,7 @@ namespace TeleFlood
     {
         static void Main(string[] args)
         {
-            Console.Title = "The Firist Telegram Flooder";
+            Console.Title = "Telegram Flooder";
             Console.ForegroundColor = ConsoleColor.White;
             string[] Logo = {
                 "___________    .__          ",
