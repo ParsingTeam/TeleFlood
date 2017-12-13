@@ -1,5 +1,5 @@
 # TeleFlood ?
-The Firist Telegram Flooder offical Telegram Account!
+The First Telegram Flooder offical Telegram Account!
 
 # A Demo ?
 
