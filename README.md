@@ -9,7 +9,4 @@ More Information on our telegram channel: @ParsingTeam
 
 # Too Many Attempts More Then 5 Minute ?
 
-Using V.P.N! or restrart your modem, ip must changed!
-
-# Report bugs
-Telegram : @N3verlove
+Using VPN! or restrart your internet modem, your IP must changed!
